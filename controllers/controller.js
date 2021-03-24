@@ -50,6 +50,7 @@ const products = [
   },
 ];
 
+
 //Define Current Cart
 let currentCart = [];
 
